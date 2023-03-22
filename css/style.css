@@ -1,0 +1,11 @@
+h1 {
+  display: flex;
+  justify-content: space-around;
+  background-color: gray;
+}
+li {
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+  color: white;
+}
